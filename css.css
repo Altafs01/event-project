@@ -2,3 +2,8 @@
     background-image: url(images/hero-bg.png);
     /* background-size: 50%; */
 }
+
+.card-title{
+    padding: 10px;
+}
+
