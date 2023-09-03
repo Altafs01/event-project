@@ -1,9 +1,11 @@
 .home{
     background-image: url(images/hero-bg.png);
-    /* background-size: 50%; */
 }
 
-.card-title{
-    padding: 10px;
+.desinger-head{
+    background-image: url(images/testimonial_bg.jpg);
 }
 
+.dot{
+    margin-left: 40%;
+}
