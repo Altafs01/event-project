@@ -4,7 +4,7 @@ var b = document.querySelector("svg")
 
 var flag = 0;
 
-a.addEventListener("click", function(){
+b.addEventListener("click", function(){
     if (flag == 0){
         a.style.backgroundColor = "black"
         a.style.color = "white"
